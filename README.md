@@ -39,7 +39,7 @@ Here are a few highlights of what I’ve worked on:
 ---
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=FFB6C1&background=00000000&width=600&lines=GitHub+Stats)
-![Galyn's GitHub Stats](https://readme-stats.vercel.app/api?username=Galyn26&show_icons=true&theme=radical)
+![Galyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Galyn26&show_icons=true)
 
 ---
 
