@@ -1,6 +1,9 @@
-[![GitHub Streak](https://github-readme-streak-stats-theta-one.vercel.app?user=Galyn26)](https://git.io/streak-stats)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FFB6C1&background=00000000&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Galyn+Cruz)
+
+[![GitHub Streak](https://github-readme-streak-stats-theta-one.vercel.app?user=Galyn26)](https://git.io/streak-stats)
+![Galyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Galyn26&show_icons=true)
+
 
 Welcome to my GitHub profile! I’m a passionate developer and lifelong learner exploring the world of coding, AI, and software development.  
 
@@ -34,11 +37,6 @@ Welcome to my GitHub profile! I’m a passionate developer and lifelong learner 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=FFB6C1&background=00000000&width=600&lines=Connect+with+Me)
 - [LinkedIn](https://www.linkedin.com/in/galyn-cruz/)  
 - [Email](mailto:thebestgalyn@gmail.com)  
-
----
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=FFB6C1&background=00000000&width=600&lines=GitHub+Stats)
-![Galyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Galyn26&show_icons=true)
 
 ---
 
