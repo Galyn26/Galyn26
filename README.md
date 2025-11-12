@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Galyn26)](https://git.io/streak-stats)
+[![GitHub Streak](./assets/streak.png)](https://git.io/streak-stats)
 
 # Hi there 👋, I'm Galyn Cruz
 
