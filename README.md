@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I’m a passionate developer and lifelong learner 
 ---
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=FFB6C1&background=00000000&width=600&lines=Projects)
-Here are a few highlights of what I’ve worked on:
+- Here are a few highlights of what I’ve worked on:
 
 - [**Pathfinder**](https://github.com/Galyn26/ShellHacks2025) – Google Chrome extension built using Google ADK at Shellhacks 
 - [**Altar Server Tracker**](https://github.com/Galyn26/altar-server-log-checkin) – Altar Server tracker app built using Replit 
