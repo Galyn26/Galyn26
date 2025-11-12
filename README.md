@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Galyn26)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Galyn26)
 
 # Hi there 👋, I'm Galyn Cruz
 
